@@ -32,4 +32,4 @@ De resterende Matlab-files had ik geschreven om de invloed van een specifieke va
 op de optimale tussenaankomsttijden te onderzoeken
 
 
-- Hamzah Nojosemito
+~ Hamzah Nojosemito
